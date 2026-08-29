@@ -45,7 +45,8 @@ Across virtually every cohort tested, **60–80%+ of customers never return afte
 **Recommendation:** Retention spend is misallocated if spread evenly across a customer's lifetime. The highest-leverage window is the **first 30 days** — a targeted second-purchase incentive or onboarding email sequence here would have more impact than any later-stage campaign.
 
 ---
-
+   ![Cohort Retention Heatmap](images/cohort_retention_heatmap.png)
+   
 ## Key Finding #2: Retention Dipped Through 2010, Recovered Through 2011
 
 Month-1 retention fell from ~20-25% (early 2010) to a low of **9.2%** (Dec 2010 cohort), before recovering to **31.7%** by Oct 2011 — the strongest performance since the dataset's first cohort.
